@@ -1,3 +1,5 @@
 halo ini saya lagi latihan git
 --
 latihan tambah kalimat commit di main tp push di branch1
+--
+cek commit di branch tambah-baris  push di main
