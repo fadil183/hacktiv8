@@ -1,1 +1,3 @@
 halo ini saya lagi latihan git
+--
+latihan tambah kalimat commit di main tp push di branch1
